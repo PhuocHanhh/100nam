@@ -106,6 +106,16 @@ document.addEventListener("DOMContentLoaded", () => {
   const g65 = document.getElementById("1965");
   const g15 = document.getElementById("2015");
   const lk = document.getElementById("LK");
+  const tn = document.getElementById("36");
+  const tt = document.getElementById("35");
+  const tnien = document.getElementById("37");
+  const pn = document.getElementById("34");
+  const ttn = document.getElementById("33");
+  const dd = document.getElementById("30");
+  const tg = document.getElementById("31");
+  const cn = document.getElementById("32");
+  const an = document.getElementById("38");
+  const ttam = document.getElementById("39");
 
   buttons.forEach(button => {
     button.addEventListener("click", () => {
@@ -140,8 +150,37 @@ document.addEventListener("DOMContentLoaded", () => {
   lk.addEventListener("click", () => {
     lk.style.display = "none";
   });
+  tn.addEventListener("click", () => {
+    tn.style.display = "none";
+  });
+  tt.addEventListener("click", () => {
+    tt.style.display = "none";
+  });
+  tnien.addEventListener("click", () => {
+    tnien.style.display = "none";
+  });
+  pn.addEventListener("click", () => {
+    pn.style.display = "none";
+  });
+  ttn.addEventListener("click", () => {
+    ttn.style.display = "none";
+  });
 
-
+  dd.addEventListener("click", () => {
+    dd.style.display = "none";
+  });
+  cn.addEventListener("click", () => {
+    cn.style.display = "none";
+  });
+  tg.addEventListener("click", () => {
+    tg.style.display = "none";
+  });
+  ttam.addEventListener("click", () => {
+    ttam.style.display = "none";
+  });
+  an.addEventListener("click", () => {
+    an.style.display = "none";
+  });
   b2.addEventListener("click", () => {
     b32.style.display = "none";
   });
