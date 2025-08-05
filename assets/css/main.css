@@ -2401,3 +2401,7 @@ td:last-child {
 .value {
   flex: 1;
 }
+
+td {
+  vertical-align: middle; /* Căn giữa theo chiều dọc nếu không dùng flex */
+}
