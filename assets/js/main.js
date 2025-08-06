@@ -625,7 +625,7 @@ const mockData1 = [
 	{ name: 'Nguyễn Thị Tuyết Hạnh', position: 'Phu nhân MsNc.Lê Minh Trí' },
 	{ name: 'Trần Thị Mỹ Liên', position: 'Phu nhân MsNc.Lê An Khương' },
 	{ name: 'Phan Thị Thùy Trang', position: 'Phu nhân MsNc.Võ Văn Hiển' },
-	{ name: 'Phan Thị Hoàng Diệu', position: 'Phu nhân MsNc.Trần Minh Cảnh' }
+	{ name: 'Phan Thị Hoàng Diệu', position: 'Phu nhân MsNc.Trần Văn Cảnh' }
   ];
 const tbody1 = document.getElementById('staff-table-body1');
 mockData1.forEach((person, index) => {
