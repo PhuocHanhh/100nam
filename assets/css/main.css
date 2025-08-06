@@ -2403,5 +2403,5 @@ td:last-child {
 }
 
 td {
-  vertical-align: middle; /* Căn giữa theo chiều dọc nếu không dùng flex */
+  vertical-align: middle; 
 }
